@@ -27,7 +27,7 @@ class ServiceToolkitPresenter
   def collections
     [
       {
-        "title": "Standards",
+        "title": "Standards and guidance",
         "description": "Standards for creating and running government services",
         "links": [
           {
@@ -44,7 +44,16 @@ class ServiceToolkitPresenter
             "title": "Technology Code of Practice",
             "url": "https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice",
             "description": "The standard you must meet to get approval to spend money on technology or a service"
-          }
+          },
+           {
+            "title": "Technology Code of Practice: collection of related content",
+            "url": "https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice",
+            "description": "Guidance from government websites and independent bodies to help you follow the Technology Code of Practice"
+          },
+           {
+            "title": "Open Standards",
+            "url": "https://www.gov.uk/government/publications/open-standards-for-government",
+            "description": "The open standards mandated by government"
         ]
       },
       {
